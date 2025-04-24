@@ -5,7 +5,6 @@
  Note you might have to change the execution policy like so:
 ```
 powershell
-
 Set-ExecutionPolicy Bypass
 ```
 1. Save the script to a file, like <code style="color : Darkorange">Analyze-DiskSpace.ps1</code>
@@ -15,7 +14,6 @@ Set-ExecutionPolicy Bypass
 •	Basic usage (analyzes C: drive):
 ```
   powershell
-
   .\Analyze-DiskSpace.ps1
 ```
 
@@ -23,30 +21,27 @@ Set-ExecutionPolicy Bypass
 
 ```
   powershell
-
   .\Analyze-DiskSpace.ps1 -Path "D:\Data"
-
 ```
 
 •	Include files in the analysis (not just folders):
   
   ```
   powershell
-  
-  .\Analyze-DiskSpace.ps1 -IncludeFiles
+    .\Analyze-DiskSpace.ps1 -IncludeFiles
 ```
 
 •	Perform a recursive analysis (scan subfolders too):
 
   ```
   powershell
-
   .\Analyze-DiskSpace.ps1 -Recurse
 ```
 
 •	Show more/fewer top items (Most Popular):
 
 ```
+powershell
 .\Analyze-DiskSpace.ps1 -TopItems 50
 ```
 
