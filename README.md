@@ -1,4 +1,4 @@
-## How to Use the Script
+## How to Use Analyze-DiskSpace.ps1 Script
 
  (One I forked didnt work)
 
