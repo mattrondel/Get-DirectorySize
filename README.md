@@ -1,4 +1,4 @@
-How to Use the Script - (One I forked didnt work)
+##How to Use the Script - (One I forked didnt work)
 
 Save the script to a file, like Analyze-DiskSpace.ps1
 
@@ -6,7 +6,7 @@ Run it with different parameters:
 
 •	Basic usage (analyzes C: drive):
 
-  powershell
+  ***powershell***
 
   .\Analyze-DiskSpace.ps1
 
@@ -32,7 +32,7 @@ Run it with different parameters:
   .\Analyze-DiskSpace.ps1 -Recurse
 
 
-**Features**
+##Features
 
 •	Shows size in both GB and MB
 
