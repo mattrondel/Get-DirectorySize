@@ -6,31 +6,35 @@ Run it with different parameters:
 
 •	Basic usage (analyzes C: drive):
 ```
-  <sup>powershell</sup>
+  powershell
 
   .\Analyze-DiskSpace.ps1
 ```
 
 •	Specify a different path:
 
+```
   powershell
 
   .\Analyze-DiskSpace.ps1 -Path "D:\Data"
 
+```
 
 •	Include files in the analysis (not just folders):
   
+  ```
   powershell
   
   .\Analyze-DiskSpace.ps1 -IncludeFiles
-
+```
 
 •	Perform a recursive analysis (scan subfolders too):
-  
+
+  ```
   powershell
 
   .\Analyze-DiskSpace.ps1 -Recurse
-
+```
 
 ##Features
 
