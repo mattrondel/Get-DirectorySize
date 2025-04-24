@@ -44,6 +44,12 @@ Set-ExecutionPolicy Bypass
   .\Analyze-DiskSpace.ps1 -Recurse
 ```
 
+•	Show more/fewer top items (Most Popular):
+
+```
+.\Analyze-DiskSpace.ps1 -TopItems 50
+```
+
 ## Features
 
 •	Shows size in both GB and MB
