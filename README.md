@@ -5,9 +5,9 @@ Save the script to a file, like Analyze-DiskSpace.ps1
 Run it with different parameters:
 
 •	Basic usage (analyzes C: drive):
-
-  **powershell**
 ```
+  **powershell**
+
   .\Analyze-DiskSpace.ps1
 ```
 
