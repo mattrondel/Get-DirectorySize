@@ -2,7 +2,7 @@
 
  (One I forked didnt work)
 
-1. Save the script to a file, like <code style="color : darkorange">Analyze-DiskSpace.ps1</code>
+1. Save the script to a file, like <code style="color : Darkorange">Analyze-DiskSpace.ps1</code>
 
 3. Run it with different parameters:
 
