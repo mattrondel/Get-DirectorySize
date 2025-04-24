@@ -6,7 +6,7 @@ Run it with different parameters:
 
 •	Basic usage (analyzes C: drive):
 ```
-  powershell
+  <sup>powershell</sup>
 
   .\Analyze-DiskSpace.ps1
 ```
