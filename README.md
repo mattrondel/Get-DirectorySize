@@ -3,8 +3,9 @@
  (One I forked didnt work)
 
 1. Save the script to a file, like Analyze-DiskSpace.ps1
+2. <code style="color : darkorange">Analyze-DiskSpace.ps1</code>
 
-2. Run it with different parameters:
+3. Run it with different parameters:
 
 •	Basic usage (analyzes C: drive):
 ```
