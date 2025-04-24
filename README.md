@@ -2,6 +2,12 @@
 
  (One I forked didnt work)
 
+ Note you might have to change the execution policy like so:
+```
+powershell
+
+Set-ExecutionPolicy Bypass
+```
 1. Save the script to a file, like <code style="color : Darkorange">Analyze-DiskSpace.ps1</code>
 
 3. Run it with different parameters:
